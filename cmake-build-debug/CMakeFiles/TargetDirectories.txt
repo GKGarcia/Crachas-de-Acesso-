@@ -1,0 +1,3 @@
+C:/Users/55119/CLionProjects/sistema-crachas-de-acessos/cmake-build-debug/CMakeFiles/sistema_crachas_de_acessos.dir
+C:/Users/55119/CLionProjects/sistema-crachas-de-acessos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/55119/CLionProjects/sistema-crachas-de-acessos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
