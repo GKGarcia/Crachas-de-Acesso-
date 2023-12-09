@@ -8,6 +8,7 @@ Muitas empresas recebem centenas de colaboradores por dia, e precisam controlar 
 O sistema deve cadastrar os seguintes dados:
 * Nome
 * RG
+* Empresa
 * Numero do cracha
 * Tempo de acesso
 
