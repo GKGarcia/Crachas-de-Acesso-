@@ -1,5 +1,5 @@
 # Descrição 
-Um projeto que tem da pratíca e estudo da linguagem C e lógica de programação.
+Um projeto que tem como objetivo a pratíca, estudo da linguagem C e lógica de programação.
 
 # Projeto 
 
