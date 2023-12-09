@@ -18,7 +18,8 @@ Deve apresentar um menu com as seguintes opções:
 2. Buscar Cracha 
 3. Buscar Colaborador 
 4. Listar Crachas       
-5. Editar Cadastros 
+5. Editar Cadastros
+6. Sair
 
  Caso o usuario escolha a opção editar cadastros o sistema devera apresentar um sub menu com as seguintes opções:
   
